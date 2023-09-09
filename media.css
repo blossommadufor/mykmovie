@@ -76,7 +76,7 @@
     top: 0%;
     margin-left: -5px;
     margin-top: -6px;
-    height: 50vh;
+    height: 60vh;
     border: 1px solid;
     border-radius: 0px;
     /* position: relative; */
@@ -369,7 +369,7 @@
 
 .boxes a{
     /* background-color: chartreuse; */
-    width: 120px;
+    width: 130px;
     height: 190px;
     padding-bottom: 5px;
     border-radius: 10px;
